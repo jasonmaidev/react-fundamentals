@@ -1,1 +1,1 @@
-console.log('App js created');
+console.log('first App js created');
